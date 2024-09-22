@@ -1,3 +1,3 @@
 Welcome!!
 <br>
-This is my first step towards Githib
+This is my first step towards Github
